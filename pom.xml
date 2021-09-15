@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.google.sp1.demo</groupId>
-	<artifactId>k8s-gateway-demo</artifactId>
+	<artifactId>foo-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>k8s-gateway-demo</name>
+	<name>foo-app</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
