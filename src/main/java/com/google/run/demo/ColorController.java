@@ -1,4 +1,4 @@
-package com.google.sp1.demo;
+package com.google.run.demo;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,7 +15,7 @@ public class ColorController {
         
         if (map.isEmpty()) {
             
-            map.put("color", "Aqua");
+            map.put("color", "Beige");
             map.put("Node_Name", System.getenv().get("NODE_NAME"));
             map.put("Host_IP", System.getenv().get("HOST_IP"));
             map.put("Pod_IP", System.getenv().get("POD_IP"));
